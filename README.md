@@ -1,0 +1,1 @@
+# anandg112-trivy-action
